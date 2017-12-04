@@ -4,3 +4,6 @@ coverage
 coverage.lcov
 dist
 node_modules
+
+#user specific things
+.idea
